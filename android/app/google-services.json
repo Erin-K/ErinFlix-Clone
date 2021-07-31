@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554091807609",
+    "project_id": "erinflix-clone-test",
+    "storage_bucket": "erinflix-clone-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554091807609:android:42ac09fc7d2bd4c169a5a8",
+        "android_client_info": {
+          "package_name": "com.erin.erinflixTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554091807609-0aatp4ack06d10u9c1hbq4ll606ilanc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2uIu0vwlMv8we_e3DxFyP8L0tvbARaIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554091807609-0aatp4ack06d10u9c1hbq4ll606ilanc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

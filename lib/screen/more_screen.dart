@@ -54,7 +54,7 @@ class MoreScreen extends StatelessWidget {
                   child: TextButton(
                     onPressed: () {},
                     child: Container(
-                      color: Colors.red,
+                      color: Colors.red, 
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: <Widget>[
