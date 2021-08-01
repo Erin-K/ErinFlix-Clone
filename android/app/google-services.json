@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "554091807609",
-    "project_id": "erinflix-clone-test",
-    "storage_bucket": "erinflix-clone-test.appspot.com"
+    "project_number": "897607914707",
+    "project_id": "erinflix-clone-test-9fc3d",
+    "storage_bucket": "erinflix-clone-test-9fc3d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:554091807609:android:42ac09fc7d2bd4c169a5a8",
+        "mobilesdk_app_id": "1:897607914707:android:21ec53bc23a6e10d067026",
         "android_client_info": {
-          "package_name": "com.erin.erinflixTest"
+          "package_name": "com.example.inflearn_netflix_clone"
         }
       },
       "oauth_client": [
         {
-          "client_id": "554091807609-0aatp4ack06d10u9c1hbq4ll606ilanc.apps.googleusercontent.com",
+          "client_id": "897607914707-iicrtferjd6252cedalji0h4rsgrfrkq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA2uIu0vwlMv8we_e3DxFyP8L0tvbARaIA"
+          "current_key": "AIzaSyCKDd21P7AOhreUYb_FIz2KGNJ5w9mmJnE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "554091807609-0aatp4ack06d10u9c1hbq4ll606ilanc.apps.googleusercontent.com",
+              "client_id": "897607914707-iicrtferjd6252cedalji0h4rsgrfrkq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
